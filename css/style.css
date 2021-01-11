@@ -253,4 +253,8 @@ img {
   .team img {
     width: 70%;
   }
+
+  .navbar {
+    height: 155px;
+  }
 }
