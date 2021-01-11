@@ -49,6 +49,7 @@ img {
   top: 0px;
   padding: 0 30px;
   transition: 0.5s ease-in;
+  z-index: 20;
 }
 
 .navbar.top {
