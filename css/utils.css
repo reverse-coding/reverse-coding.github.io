@@ -1,3 +1,8 @@
+:root {
+  --animate-duration: 2s;
+  --animate-delay: 6s;
+}
+
 /* Text colors */
 .text-primary {
   color: #000;
